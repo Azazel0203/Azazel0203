@@ -1,4 +1,4 @@
-# Hi there, I'm [Aadarsh Kumar Singh](https://github.com/Azazel0203) 👋
+# Hi there, I'm [Aadarsh](https://github.com/Azazel0203) 👋
 
 <img alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
