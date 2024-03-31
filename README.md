@@ -14,7 +14,9 @@
 
 
 ## Skills
-- **Programming Languages:** Python
+- **Programming Languages:** 
+  [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+  [![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)](https://www.cplusplus.com/)
 - **Competitive Programming:** [![Codeforces](https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/your_username) - Specialist
 - **Machine Learning:** ML and DL Algorithms (GANS, VAEs, CNNs, Neural Networks)
 - **Deep Learning:** Deep Reinforcement Learning, Artificial Neural Networks
