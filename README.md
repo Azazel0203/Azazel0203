@@ -10,11 +10,12 @@
 
 - 🌱 I'm currently exploring the realms of Machine Learning, Generative AI, and Natural Language Processing.
 - 🔭 I’m passionate about leveraging AI to solve real-world problems and create innovative solutions.
-- 📫 Feel free to reach out to me at [Your Email](mailto:aadarshkr.singh.cd.ece21@itbhu.ac.in)
+- 📫 Feel free to reach out to me at [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:aadarshkr.singh.cd.ece21@itbhu.ac.in)
+
 
 ## Skills
 - **Programming Languages:** Python
-- **Competitive Programming:** Codeforces - Specialist
+- **Competitive Programming:** [![Codeforces](https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/your_username) - Specialist
 - **Machine Learning:** ML and DL Algorithms (GANS, VAEs, CNNs, Neural Networks)
 - **Deep Learning:** Deep Reinforcement Learning, Artificial Neural Networks
 - **Libraries & Frameworks:** 
