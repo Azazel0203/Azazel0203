@@ -14,7 +14,7 @@
 
 ## Skills
 - **Programming Languages:** Python
-- **Competitive Programming:** Codeforces - Expert
+- **Competitive Programming:** Codeforces - Specialist
 - **Machine Learning:** ML and DL Algorithms (GANS, VAEs, CNNs, Neural Networks)
 - **Deep Learning:** Deep Reinforcement Learning, Artificial Neural Networks
 - **Libraries & Frameworks:** 
