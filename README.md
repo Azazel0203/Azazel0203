@@ -26,7 +26,7 @@
         <img alt="GIF" src="https://media.tenor.com/A-xepNszV9YAAAAi/ai-bot.gif" width="25%" />
     </span>
     <span style="width: 60%;">
-        <a href="https://github.com/Azazel0203"><img src="https://github-stats-alpha.vercel.app/api?username=Azazel&cc=0d1117&tc=8a2be2&ic=fff&bc=0000" width="65%" align="right"></a>
+        <a href="https://github.com/Azazel0203"><img src="https://github-stats-alpha.vercel.app/api?username=Azazel0203&cc=0d1117&tc=8a2be2&ic=fff&bc=0000" width="65%" align="right"></a>
     </span>
 </div>
 
