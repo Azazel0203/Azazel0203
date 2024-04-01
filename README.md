@@ -2,9 +2,9 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Georgia&duration=1000&pause=5&color=8A2BE2&background=0D1117&center=true&multiline=true&repeat=false&random=false&width=500&height=100&lines=Aadarsh+Kumar+Singh;Student+%7C+Electronics+%7C+IIT+VARANSI;AI+%7C+NLP+%7C+ML" alt="Typing SVG" /></a>
 <br/>
 
-<a href="">
+<!--<a href="">
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
-</a>  
+</a>-->  
 <a href="https://www.linkedin.com/in/aadarsh-singh-mlai/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
 </a>
