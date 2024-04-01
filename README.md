@@ -82,7 +82,7 @@
 
 |Title | Technologies|
 |--|--|
-| [ocr_captcha](https://github.com/Azazel0203/ocr_captcha) | ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow) ![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker) ![Azure](https://img.shields.io/badge/Azure-black?style=flat-square&logo=microsoftazure) ![Keras](https://img.shields.io/badge/Keras-black?style=flat-square&logo=keras) ![CNN](https://img.shields.io/badge/CNN-black?style=flat-square&logo=cnn) <br> ![Flask](https://img.shields.io/badge/Flask-black?style=flat-square&logo=flask) ![DVC](https://img.shields.io/badge/DVC-black?style=flat-square&logo=dvc) ![Airflow](https://img.shields.io/badge/Airflow-black?style=flat-square&logo=apache-airflow) ![MLflow](https://img.shields.io/badge/MLflow-black?style=flat-square&logo=mlflow) |
+| [ocr_captcha](https://github.com/Azazel0203/ocr_captcha) | ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow) ![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker) ![Azure](https://img.shields.io/badge/Azure-black?style=flat-square&logo=microsoftazure) ![Keras](https://img.shields.io/badge/Keras-black?style=flat-square&logo=keras) ![CNN](https://img.shields.io/badge/CNN-black?style=flat-square&logo=cnn) <br> ![Flask](https://img.shields.io/badge/Flask-black?style=flat-square&logo=flask) ![DVC](https://img.shields.io/badge/DVC-black?style=flat-square&logo=dvc) ![Airflow](https://img.shields.io/badge/Airflow-black?style=flat-square&logo=apache-airflow) ![MLflow](https://img.shields.io/badge/MLflow-black?style=flat-square&logo=mlflow) ![CI](https://img.shields.io/badge/CI-black?style=flat-square&logo=circleci) |
 | [Sentiment Analyser](https://github.com/drkostas/Sentiment_Analyser) | ![Static Badge](https://img.shields.io/badge/HF-orange)Hugging Face ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch&logoColor=white) ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python&logoColor=white)
 | [Invoice Extractor](https://github.com/drkostas/Invoice_extractor) | ![Gemini-Pro](https://img.shields.io/badge/Gemini--Pro-black?style=flat-square&logo=gemini-pro)![LangChain](https://img.shields.io/badge/LangChain-black?style=flat-square&logo=langchain) ![Streamlit](https://img.shields.io/badge/Streamlit-black?style=flat-square&logo=streamlit)
 | [Medical_ChatBot](https://github.com/drkostas/Medical_ChatBot) | ![CSS](https://img.shields.io/badge/CSS-black?style=flat-square&logo=css3) ![HTML](https://img.shields.io/badge/HTML-black?style=flat-square&logo=html5) ![Flask](https://img.shields.io/badge/Flask-black?style=flat-square&logo=flask) ![Pinecone](https://img.shields.io/badge/Pinecone-black?style=flat-square&logo=pinecone) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-black?style=flat-square&logo=huggingface) <br> ![Vector Database](https://img.shields.io/badge/Vector%20Database-black?style=flat-square&logo=database) ![Generative AI](https://img.shields.io/badge/Generative%20AI-black?style=flat-square&logo=ai) ![LangChain](https://img.shields.io/badge/LangChain-black?style=flat-square&logo=LangChain) ![Llama2](https://img.shields.io/badge/Llama2-black?style=flat-square&logo=llama)
@@ -99,10 +99,16 @@
 
 
 
+    
 ## 📈 Github Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Azazel0203&theme=dracula) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Azazel0203&theme=dracula) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Azazel0203&theme=dracula)
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Azazel0203&theme=dracula" width="100%" />
+<div style="display: flex;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Azazel0203&theme=dracula" style="width: 49%; align:left" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Azazel0203&theme=dracula" style="width: 49%; align:right" />
+</div>
+
+
+
 
 
 
