@@ -93,7 +93,7 @@
 
 |Title | Technologies|
 |--|--|
-| [mongo_only](https://github.com/drkostas/mongo_db_package) | [![PyPi](https://img.shields.io/badge/PyPi-black?style=flat-square&logo=pypi)](https://pypi.org/project/mongo-only/) ![MongoDBAtlas](https://img.shields.io/badge/MongoDB%20Atlas-black?style=flat-square&logo=mongodb) <br> ![CI](https://img.shields.io/badge/CI-black?style=flat-square&logo=circleci) [![MongoDB](https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=mongodb)](https://www.mongodb.com/)
+| [mongo_only](https://github.com/drkostas/mongo_db_package) | [![PyPi](https://img.shields.io/badge/PyPi-black?style=flat-square&logo=pypi)](https://pypi.org/project/mongo-only/) ![MongoDBAtlas](https://img.shields.io/badge/MongoDBAtlas-black?style=flat-square&logo=mongodb) <br> ![CI](https://img.shields.io/badge/CI-black?style=flat-square&logo=circleci) [![MongoDB](https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=mongodb)](https://www.mongodb.com/)
 </td></tr> </table>
 
 
