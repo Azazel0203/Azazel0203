@@ -111,7 +111,23 @@
 </div>
 
 
-
+## 📊 Contributions
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github.com/Azazel0203/Azazel0203/blob/animation/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github.com/Azazel0203/Azazel0203/blob/animation/github-contribution-grid-snake.svg"
+  />
+  <img
+    width="100%"
+    height="auto"
+    alt="github contribution grid snake animation"
+    src="https://github.com/Azazel0203/Azazel0203/blob/animation/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 
 
